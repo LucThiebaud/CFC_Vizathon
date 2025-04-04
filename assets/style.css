@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'ChelseaRegular';
+    src: url('/assets/fonts/ChelseaBasis-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'ChelseaBold';
+    src: url('/assets/fonts/ChelseaBasis-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'ChelseaRegular', sans-serif;
+  }
+
+/* assets/custom_tooltip.css */
+.custom-tooltip > .tooltip-inner {
+  background-color: #FFFFFF !important;  /* ex: COLOR_SNOW */
+  color: #001489 !important;               /* ex: texte en bleu foncé */
+  font-family: "ChelseaRegular", sans-serif !important;
+  border: 1px solid #001489;
+  font-size: 14px;
+  padding: 8px;
+  border-radius: 4px;
+  opacity: 1 !important;                   /* Opacité maximale */
+}

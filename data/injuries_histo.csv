@@ -1,0 +1,11 @@
+﻿player_id;injury_date;return_date;body_part;injury_name;season;is_injury_active
+2;01/01/2025;15/01/2025;Left ankle;Ankle sprain;2024/2025;0
+2;19/09/2024;23/10/2024;Right harmstring;Harmstring strain;2024/2025;0
+3;21/08/2024;02/11/2024;Left knee;Meniscal lesion;2024/2025;0
+4;27/02/2025;02/04/2025;Left harmstring;Biceps femoris tear;2024/2025;1
+5;02/10/2024;27/10/2024;Right calf;Calf tear;2024/2025;0
+3;20/02/2025;23/02/2025;Head;Concussion;2024/2025;0
+1;17/04/2024;03/05/2024;Left calf;Calf tear;2023/2021;0
+2;14/02/2024;01/04/2024;Left adductor;Pubalgia;2023/2022;0
+3;11/11/2023;02/12/2023;Left shoulder;Clavicle fracture;2023/2023;0
+4;02/09/2023;12/04/2024;Right knee;ACL;2023/2024;0
