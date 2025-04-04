@@ -19,6 +19,7 @@ app = dash.Dash(
     external_stylesheets=[dbc.themes.BOOTSTRAP]
 )
 app.title = "Chelsea Dashboard"
+server = app.server
 
 # =============================================================================
 # Define the app layout
