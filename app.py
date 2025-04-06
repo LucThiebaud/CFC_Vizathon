@@ -302,7 +302,7 @@ def update_page2_content(selected_season, player_id):
     top_val = -7
     left_val = -1
     width_vw_val = 92
-    height_vh_val = 100
+    height_vh_val = 98
     acute_color_val = "dodgerblue"
     chronic_color_val = "limegreen"
     acwr_color_val = COLOR_LIGHT_BLUE
