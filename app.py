@@ -82,8 +82,8 @@ def update_content(tab_index, player_id, stored_season):
         body_size = BODY_SIZE
         info_top = 82
         info_left = image_left
-        info_value_size = 1.8
-        info_label_size = 1
+        info_value_size = SUBTITLE_SIZE
+        info_label_size = BODY_SIZE
         season_top = 15
         season_left = 30
         last_5_matches_top = 52
