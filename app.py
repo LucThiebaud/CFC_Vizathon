@@ -18,7 +18,7 @@ app = dash.Dash(
     suppress_callback_exceptions=True,
     external_stylesheets=[dbc.themes.BOOTSTRAP]
 )
-app.title = "Chelsea Dashboard"
+app.title = "CFC Performance Insights Vizathon LTH"
 server = app.server
 
 # =============================================================================
