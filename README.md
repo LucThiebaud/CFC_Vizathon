@@ -2,6 +2,8 @@
 
 The Chelsea Dashboard is an interactive web application built with Dash and Plotly to visualize metrics for Chelsea FC players. The dashboard provides multiple pages that allow you to explore a player's statistics over the current season, the link between the evolution of his training load, his load ratio and his injury history, as well as data linked to the player's recovery.
 
+The application is available here: [https://cfc-vizathon-lth.onrender.com/](https://cfc-vizathon-lth.onrender.com/)
+
 This work was carried out as part of the **CFC Performance Insights Vizathon**.
 ![image](https://github.com/user-attachments/assets/5f4ae088-87ee-435e-98e7-9ce51bb404ca)
 
